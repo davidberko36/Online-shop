@@ -29,7 +29,3 @@ class SignupForm(UserCreationForm):
         'class': 'w-full py-4 px-6 rounded-xl'
     }))
 
-'''
-def keepStreak():
-    print('Keep the streak going')
-'''
